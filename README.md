@@ -22,7 +22,7 @@ The objective of this repository is to implement and verify fundamental combinat
 * Full Adder
 * Half Subtractor
 * Full Subtractor
-* Ripple Carry Adder
+* 4-bit Ripple Carry Adder
 * Carry Look-Ahead Adder
 
 ### Multiplexers
