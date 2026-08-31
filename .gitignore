@@ -1,0 +1,27 @@
+# Vivado
+.vivado/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+
+# Simulation
+*.vcd
+*.vvp
+*.wlf
+
+# Compiled files
+*.out
+*.exe
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
